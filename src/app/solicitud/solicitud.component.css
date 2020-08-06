@@ -1,0 +1,27 @@
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    .logomuni{
+        width: 180px;
+        height: 120px;
+        
+        
+    }
+    .verificar{
+    margin-left:10px;
+    }
+    .codigo{
+        margin-left: 50px;
+    }
+    .confi{
+        margin-left: 30px;
+    }
+    .codigot{
+        margin-left: 90px;
+        margin-top: 5px;
+    }
+    .boton{
+        margin-top: 30px;
+        margin-left: 880px;
+    }

@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.loginprincipal{
+    width: 110vh;
+    height: 110vh;
+    margin : auto;
+   
+}
+.login{
+    margin-top: 90px;
+    
+}
+.StyleUser{
+    margin-left: 320px;
+}
+.StylePass{
+    margin-left: 300px;
+    margin-top: 20px;
+
+}
+.ingresarprincipal{
+    margin-left: 310px;
+    margin-top: 38px;
+}
+.logomuni{
+    width: 180px;
+    height: 130px;
+    margin-left: 242px;
+    margin-top: 50px;
+}

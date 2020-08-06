@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.logomuni{
+    width: 180px;
+    height: 120px;
+    
+    
+}
+.agregar{
+margin-right: 10px;
+}
+.editar{
+    margin-right: 10px;
+
+}
+.eliminar{
+    margin-right: 10px;
+
+}
+.siguiente{
+    margin-left: 330px;
+}
+.segunda{
+    margin-left: 30px;
+}
+
+.dos{
+margin-left: 30px;
+}
+.tres{
+    margin-left: 30px;
+}
